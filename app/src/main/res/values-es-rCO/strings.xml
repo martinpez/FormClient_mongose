@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="btn_login">Ingresar</string>
+    <string name="txt_bienvenida">Bienvenido, Hotel hilton</string>
+    <string name="app_name">MongoseApp</string>
+    <string name="txt_forgot">¿Olvidaste el correo electrónico?</string>
+    <string name="txt_frame">Bienvenido, Hotel hillton !!</string>
+    <string name="btn_frame">Registrarme</string>
+    <string name="radio_one">Masajes y tratamientos de spa</string>
+    <string name="radio_two">Cenas Especiales</string>
+    <string name="radio_three">Actividades recreativas</string>
+    <string name="radio_four">Servicio VIP</string>
+    <string name="radio_five">Artículos de regalo y souvenirs</string>
+    <string name="radio_six">Habitación con jacuzzi</string>
+    <string name="radio_seven">Excursiones guiadas</string>
+    <string name="btn_costin">AGREGAR</string>
+    <string name="txt_day">Días de estancia</string>
+    <string name="txt_stay">Parqueadero carros</string>
+    <string name="txt_tablet_invo">Factura</string>
+    <string name="btn_tablet">Pagar</string>
+    <string name="Errorinicio">Rellenar campos</string>
+    <string name="spinner_cargo">Habitaciones Disponibles</string>
+    <string name="txt_reservat">Reservaciones</string>
+    <string name="inp_kicks">Numero de persona</string>
+    <string name="txt_welcome">"Bienvenido \nHotel "</string>
+    <string name="reserva_realizada">Reserva confirmada\n Número de reserva:</string>
+    <string name="gracias_reserva">Gracias por reservar con nosotros\n Esperamos volver a verte pronto y brindarte un servicio excepcional:).</string>
+    <string name="btnlinear">Registrar Cuenta</string>
+    <string name="discon_menu">Canjear descuento</string>
+    <string name="changePrice_menu">Cambio de precio</string>
+    <string name="abou_menu">Acerca de</string>
+    <string name="btnreserv">Reservar</string>
+    <string name="txt_register">¿Eres nuevo usuario? Registrate</string>
+    <string name="reserva_exitosa">Su reserva ha sido completada correctamente</string>
+    <string name="company">Rol en \n empresa</string>
+    <string name="txtformulario">Formulario</string>
+
+
+</resources>

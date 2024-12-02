@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="rolEmpresa">
+        <item>Gerencia General</item>
+        <item>Recursos Humanos</item>
+        <item>Contabilidad y Finanzas</item>
+        <item>Marketing y Publicidad</item>
+        <item>Ventas</item>
+        <item>Logística y Distribución</item>
+        <item>Producción</item>
+        <item>Investigación y Desarrollo</item>
+        <item>Tecnología de la Información</item>
+        <item>Servicio al Cliente</item>
+        <item>Legal</item>
+        <item>Calidad</item>
+        <item>Compras y Abastecimiento</item>
+        <item>Relaciones Públicas</item>
+        <item>Mantenimiento</item>
+        <item>Seguridad</item>
+        <item>Planificación Estratégica</item>
+        <item>Soporte Técnico</item>
+        <item>Proyectos Especiales</item>
+        <item>Otro</item>
+
+    </string-array>
+
+
+</resources>

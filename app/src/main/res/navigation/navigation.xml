@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/navigation"
+    app:startDestination="@id/home2">
+
+    <fragment
+        android:id="@+id/home2"
+        android:name="mongosedb.example.mongose.Home"
+        android:label="fragment_home"
+        tools:layout="@layout/fragment_home" >
+        <action
+            android:id="@+id/action_home2_to_view_user"
+            app:destination="@id/view_user" />
+    </fragment>
+    <fragment
+        android:id="@+id/view_user"
+        android:name="mongosedb.example.mongose.view_user"
+        android:label="fragment_view_user"
+        tools:layout="@layout/fragment_view_user" >
+        <action
+            android:id="@+id/action_view_user_to_home2"
+            app:destination="@id/home2" />
+        <action
+            android:id="@+id/action_view_user_to_viewUpdate"
+            app:destination="@id/viewUpdate" />
+    </fragment>
+    <fragment
+        android:id="@+id/viewUpdate"
+        android:name="mongosedb.example.mongose.viewUpdate"
+        android:label="fragment_view_update"
+        tools:layout="@layout/fragment_view_update" >
+        <action
+            android:id="@+id/action_viewUpdate_to_view_user"
+            app:destination="@id/view_user" />
+    </fragment>
+
+</navigation>

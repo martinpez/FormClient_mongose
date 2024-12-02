@@ -1,0 +1,46 @@
+<resources>
+    <string name="btn_login">Login</string>
+    <string name="txt_bienvenida">Welcome, Hotel hilton</string>
+    <string name="app_name">MongoseApp</string>
+    <string name="txt_forgot">Forgot email?</string>
+    <string name="txt_frame">Welome, Hotel hilton !!</string>
+    <string name="btn_frame">Register</string>
+    <string name="radio_one">Massages and Spa Treatments</string>
+    <string name="radio_two">Special Dinners</string>
+    <string name="radio_three">Recreational activities</string>
+    <string name="radio_four">VIP Services</string>
+    <string name="radio_five">Gift Items and Souvenirs</string>
+    <string name="radio_six">Room with jacuzzi</string>
+    <string name="radio_seven">Guided Excursions</string>
+    <string name="txt_const" translatable="false">C A R T</string>
+    <string name="btn_costin">ADD</string>
+    <string name="txt_day">Days stayed</string>
+    <string name="txt_stay">Parking car</string>
+    <string name="txt_tablet_invo">Invoice</string>
+    <string name="txt_Subt" translatable="false">Subtotal</string>
+    <string name="txt_disc" translatable="false">Discounts</string>
+    <string name="txt_sub" translatable="false">Subtotal</string>
+    <string name="txt_iva" translatable="false">IVA</string>
+    <string name="txt_total" translatable="false">Total</string>
+    <string name="hello_blank_fragment" translatable="false">Hello blank fragment</string>
+    <string name="btnlinear">Register account</string>
+    <string name="btn_tablet">Pay now</string>
+    <string name="copyright" translatable="false">© 2024 Martin Perez. Todos los derechos reservados.</string>
+    <string name="Errorinicio"> Fill fields </string>
+    <string name="spinner_cargo">Rooms Available</string>
+    <string name="discon_menu">Redeem discount</string>
+    <string name="changePrice_menu">Change price</string>
+    <string name="abou_menu">About</string>
+    <string name="txt_reservat">Reservations</string>
+    <string name="btnreserv">Reserve</string>
+    <string name="inp_kicks">"Number of people "</string>
+    <string name="txt_welcome">Welcome \nHotel</string>
+    <string name="txt_register">Are you new user? Register</string>
+    <string name="notification_icon" translatable="false">Notification Icon</string>
+    <string name="reserva_realizada">Confirmed reservation\n Reservation number:</string>
+    <string name="gracias_reserva">Thank you for booking with us\n We hope to see you again soon and provide you with exceptional service :).</string>
+    <string name="reserva_exitosa">Your reservation has been completed successfully</string>
+    <string name="company">role in \n company</string>
+    <string name="txtformulario">Form</string>
+    <string name="mogoseConexion" translatable="false"></string>
+</resources>

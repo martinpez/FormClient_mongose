@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="phone_identifiers_array">
+        <item>+57</item> <!-- Colombia -->
+        <item>+1</item>  <!-- Estados Unidos -->
+        <item>+52</item> <!-- México -->
+        <item>+86</item> <!-- China -->
+        <item>+44</item> <!-- Reino Unido -->
+        <item>+33</item> <!-- Francia -->
+        <item>+91</item> <!-- India -->
+        <item>+61</item> <!-- Australia -->
+        <item>+55</item> <!-- Brasil -->
+        <item>+81</item> <!-- Japón -->
+        <item>+7</item> <!-- Rusia -->
+        <item>+49</item> <!-- Alemania -->
+        <item>+39</item> <!-- Italia -->
+        <item>+34</item> <!-- España -->
+        <item>+351</item> <!-- Portugal -->
+        <item>+54</item> <!-- Argentina -->
+        <item>+64</item> <!-- Nueva Zelanda -->
+        <item>+82</item> <!-- Corea del Sur -->
+        <item>+971</item> <!-- Emiratos Árabes Unidos -->
+        <item>+966</item> <!-- Arabia Saudita -->
+        <item>+965</item> <!-- Kuwait -->
+        <item>+968</item> <!-- Omán -->
+        <item>+974</item> <!-- Qatar -->
+    </string-array>
+</resources>
